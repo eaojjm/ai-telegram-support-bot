@@ -10,6 +10,8 @@ AI-ассистент для автоматизации первой линии 
 
 ▶️ YouTube: [Посмотреть работу AI Support Bot](https://youtu.be/WMe5W18dXTo)
 
+![AI Telegram Support Bot — n8n workflow](workflow-preview.png)
+
 ## 💼 Какую задачу решает
 
 Бизнесу не всегда нужен сотрудник для ответа на каждый типовой вопрос.
